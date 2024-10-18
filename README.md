@@ -22,3 +22,6 @@ This project is designed to monitor weather conditions in real time and provide 
 
 ## Usage Instructions
 - The application retrieves weather data every 5 minutes for specified cities.
+
+
+<img width="653" alt="Screenshot 2024-10-18 at 3 47 45 PM" src="https://github.com/user-attachments/assets/ecb21e5a-e380-42f6-b1f6-9d4a0bf8f085">
