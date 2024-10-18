@@ -25,3 +25,4 @@ This project is designed to monitor weather conditions in real time and provide 
 
 
 <img width="653" alt="Screenshot 2024-10-18 at 3 47 45 PM" src="https://github.com/user-attachments/assets/ecb21e5a-e380-42f6-b1f6-9d4a0bf8f085">
+<img width="1186" alt="Screenshot 2024-10-18 at 3 52 41 PM" src="https://github.com/user-attachments/assets/663239e4-65ba-42fd-af68-cba1370c4a54">
