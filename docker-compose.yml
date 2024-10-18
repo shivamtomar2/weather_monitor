@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  weather_monitor:
+    build: .
+    volumes:
+      - ./src:/app/src
+    environment:
+      - API_KEY=c665a90bd3a5162d97c1960542c95f90
